@@ -6,6 +6,8 @@ descriptions for easy integration into the nbextensions config utility provided
 by the
 [IPython-notebook-extensions](https://github.com/ipython-contrib/IPython-notebook-extensions)
 
+![Snapshot of the Ipython Config Extension](gh.png)
+
 ###Installation
 Clone repository to your nbextensions folder and activate Calico spell check in
 the Notebook Extension Configuration.
