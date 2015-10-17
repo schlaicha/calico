@@ -102,7 +102,7 @@ define(["require"], function (require) {
 	}
 
 	// Load dictionary:
-	require(["nbextensions/calico-nbextensions/calico-spell-check/typo/typo"], function () {
+	require(["nbextensions/calico/calico-spell-check/typo/typo"], function () {
 	    var lang = "en_US";
 	    var dict_path = require.toUrl("./typo/dictionaries/");
 	    dict_path = dict_path.substr(0, dict_path.lastIndexOf("/"));
