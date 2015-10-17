@@ -1,0 +1,6 @@
+Type: IPython Notebook Extension
+Name: Calico Spell checking
+Description: The Calico Spell Check extension checks the spelling of words in Markdown and Heading cells as you type. It is very fast, and expands to about 700k after download.
+Link: http://calicoproject.org/ICalico
+Main: calico-spell-check.js
+Compatibility: 4.x
