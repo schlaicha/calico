@@ -7,7 +7,7 @@ by the
 [IPython-notebook-extensions](https://github.com/ipython-contrib/IPython-notebook-extensions)
 
 
-*[Calico]*(http://calicoproject.org/)
+##[Calico](http://calicoproject.org/)
 The Calico Project is a framework for learning, doing, and playing
 with computation. At its core is an integrated editor, interactive
 console, and social interaction framework for exploring computer
