@@ -6,6 +6,10 @@ descriptions for easy integration into the nbextensions config utility provided
 by the
 [IPython-notebook-extensions](https://github.com/ipython-contrib/IPython-notebook-extensions)
 
+###Installation
+Clone repository to your nbextensions folder and activate Calico spell check in
+the Notebook Extension Configuration.
+
 
 ##[Calico](http://calicoproject.org/)
 The Calico Project is a framework for learning, doing, and playing
