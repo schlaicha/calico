@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: Calico Cell Tools
+Description: The Calico Cell Tools extension adds tabbed Input/Output views to individual code cells, and two columns to individual cells.
+Link: http://calicoproject.org/ICalico
+Main: main.js
+Icon: snapshot.png
+Compatibility: 4.x
