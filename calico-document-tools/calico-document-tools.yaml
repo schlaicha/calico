@@ -1,0 +1,7 @@
+Type: IPython Notebook Extension
+Name: Calico Document Tools
+Description: The Calico Document Tools extensions adds section moving, heading numbering, table of contents, and bibliography support.
+Link: http://calicoproject.org/ICalico
+Main: main.js
+Icon: logo.png
+Compatibility: 4.x
